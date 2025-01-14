@@ -1,1 +1,51 @@
-READMe TEST
+Unity3DChess 🎮♟️
+Overview
+Unity3DChess is a 3D chess game developed as part of my university dissertation project using Unity. This repository contains the source code for the game, ready for you to download and explore! Dive into the world of chess with a polished and interactive 3D experience.
+
+Features
+3D Chess Gameplay: Enjoy the classic game of chess in a 3D environment.
+Interactive Interface: Navigate through menus and play with intuitive controls.
+Multiple Chess Piece Movements: Each piece follows standard chess rules for movement.
+Seamless Scene Management: Easily open and explore saved scenes in Unity.
+Getting Started
+Prerequisites
+Unity Hub installed on your machine.
+Unity Editor version [Specify Version, e.g., 2022.1.0f1].
+Installation
+Clone the repository or download the ZIP file.
+bash
+複製程式碼
+git clone https://github.com/yourusername/Unity3DChess.git
+Open Unity Hub and add the project folder.
+Important: If you encounter an empty scene when opening the project, double-click the Scenes folder and open the saved scene.
+Screenshots
+Main Menu
+
+
+Online Menu
+
+
+In-Game Screenshots
+Pawn Moves
+
+
+Queen Moves
+
+
+Bishop Moves
+
+
+Rook Moves
+
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
+
+License
+MIT License
+
+Acknowledgments
+Special thanks to my university mentors for their guidance.
+Tools used: Unity, [Your Development Tools].
+Call to Action
+⭐ Star this repository if you found it useful or interesting!
